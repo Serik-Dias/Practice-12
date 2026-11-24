@@ -1,2 +1,0 @@
-start 13:16:00 UTC
-end implementation+tests 13:18:04 UTC

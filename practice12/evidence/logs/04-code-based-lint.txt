@@ -1,5 +1,0 @@
-
-> smart-campus-practice12@1.0.0 lint
-> eslint .
-
-EXIT=0

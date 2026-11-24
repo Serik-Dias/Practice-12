@@ -1,2 +1,0 @@
-Note: runs the Appsmith JS object logic in Node.js (not inside Appsmith) against the code-based checkAvailability().
-parity: 16/16 identical reason codes and messages
