@@ -1,0 +1,14 @@
+
+> smart-campus-practice12@1.0.0 build
+> vite build
+
+vite v6.4.5 building for production...
+transforming...
+✓ 28 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.43 kB │ gzip:  0.30 kB
+dist/assets/index-BzKXDDmu.css    6.16 kB │ gzip:  2.01 kB
+dist/assets/index-BOowRUAw.js   192.50 kB │ gzip: 61.05 kB
+✓ built in 760ms
+EXIT=0
